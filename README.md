@@ -1,23 +1,34 @@
-# 🚀 Project Name
+# 🚀 Control Systems, DSP & Python Projects
 
-A clean and well-structured repository showcasing my work on **[brief project purpose]**.  
-This project focuses on **[key technology / concept]** and demonstrates practical implementation with clean, readable code.
+This repository showcases my practical and academic work in **Control Systems**, **Digital Signal Processing (DSP)**, and **Software Development** using **Python** and **C++**.  
+The projects here reflect both theoretical understanding and hands-on implementation, focusing on clean code, mathematical modeling, and real-world engineering applications.
 
 ---
 
-## 📌 Features
-- ✔️ Well-structured and modular code
-- ✔️ Easy to understand and extend
-- ✔️ Follows best coding practices
-- ✔️ Ready for future enhancements
+## 🎯 Core Focus Areas
+- Control System Modeling & Analysis
+- Digital Signal Processing (DSP)
+- Numerical Methods & Simulations
+- Algorithm Development
+- Engineering-Oriented Python & C++ Programming
+
+---
+
+## 🧠 Skills Demonstrated
+- ✔️ Control System Design (LTI systems, stability, response analysis)
+- ✔️ DSP concepts (sampling, filtering, transforms)
+- ✔️ Numerical simulations and data visualization
+- ✔️ Modular and readable code design
+- ✔️ Problem-solving with engineering mindset
 
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Python / C++ / JavaScript / MATLAB (update accordingly)
-- **Frameworks/Libraries:** (if any)
+- **Languages:** Python, C++
+- **Libraries (Python):** NumPy, SciPy, Matplotlib
+- **Concepts:** Signals & Systems, Feedback Control, DSP Algorithms
 - **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
